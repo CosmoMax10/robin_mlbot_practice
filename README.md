@@ -1,1 +1,3 @@
 # robin_mlbot_practice
+
+ここには仮想通貨の自動売買botを作るために、勉強するのに使ったipynbファイルを入れています。
